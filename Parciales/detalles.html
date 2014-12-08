@@ -1,0 +1,13 @@
+<section class="playerinfo">
+	<div class="player cf" ng-model="players">
+		<a href="#/detalles/{{preItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/detalles/{{postItem}}" class="btn btn-right">&gt;</a>
+		<h1>{{players[whichItem].nombre}}</h1>
+		<div class="info">
+			<h3>{{players[whichItem].logros}}</h3>
+			<img ng-src="imagenes/{{players[whichItem].nickname}}_tn.jpg" alt="Foto de {{players[whichItem].nombre}}">
+			<div class="bio">{{players[whichItem].bio}}</div>
+		</div>
+	</div>
+	<a href="index.html">&laquo; Regresar a buscar</a>
+</section>

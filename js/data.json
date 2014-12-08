@@ -1,0 +1,56 @@
+[
+  {
+    "nombre":"Wayne Rooney",
+    "nickname":"Wayne_Rooney",
+    "logros":"Premio PFA al jugador joven del año",
+    "bio":"(Croxteth, Liverpool, Inglaterra, 24 de octubre de 1985) es un futbolista inglés. Juega en la posición de delantero y su actual equipo es el Manchester United de la Premier League de Inglaterra. Rooney inició su carrera deportiva en el Everton F. C., luego de unirse a su equipo juvenil a la edad de 10 años. Debutó profesionalmente en 2002 después de su ascenso al primer equipo."
+  },
+  {
+    "nombre":"Robert Lewandowski",
+    "nickname":"Robert_Lewandowski",
+    "logros":"En enero de 2014 firmó un contrato para jugar en el Bayern de Múnich a partir de la temporada 2014/15.",
+    "bio":"(21 de agosto de 1988, Varsovia, Polonia), es un futbolista polaco que juega actualmente en el Borussia Dortmund como delantero."
+  },
+  {
+    "nombre":"Xabi Alonso",
+    "nickname":"Xabi_Alonso",
+    "logros":"Ganó la FA Cup y la FA Community Shield.",
+    "bio":"(Tolosa, Guipúzcoa, España, 25 de noviembre de 1981), conocido deportivamente como Xabi Alonso , es un futbolista español que ejerce en la demarcación de centrocampista. Actualmente milita en el Real Madrid Club de Fútbol de la Primera División de España. Es hijo y hermano, respectivamente, de los también futbolistas Periko Alonso y Mikel Alonso."
+  },
+  {
+    "nombre":"Zlatan Ibrahimović",
+    "nickname":"Zlatan_Ibrahimović",
+    "logros":"Logró dos Eredivisie, una Copa y una Supercopa de los Países Bajos",
+    "bio":"(Malmö, Provincia de Escania, Suecia, 3 de octubre de 1981) es un futbolista sueco de ascendencia bosnio-croata.5 Juega de delantero y su club actual es el París Saint-Germain de la Ligue 1 de Francia."
+  },
+  {
+    "nombre":"Andrés Iniesta",
+    "nickname":"Andrés_Iniesta",
+    "logros":"En el año 2010, gracias a su actuación en la Copa Mundial y con el Barça, fue el segundo clasificado del FIFA Balón de Oro, nombrándolo así, el segundo Mejor Jugador del Año.",
+    "bio":"(Fuentealbilla, Albacete, España, 11 de mayo de 1984), conocido deportivamente como Iniesta, es un futbolista español. Juega de centrocampista en el F. C. Barcelona de la Primera División de España. Tiene contrato hasta el año 2015, con una cláusula de rescisión de 200 millones de euros."
+  },
+  {
+    "nombre":"Thomas Müller",
+    "nickname":"Thomas_Müller",
+    "logros":"Fue nombrado mejor jugador joven de la copa del mundo 2010 y ganó la Bota de Oro con cinco goles y tres asistencias.",
+    "bio":"(Weilheim, Baviera, Alemania, 13 de septiembre de 1989) es un futbolista alemán que se desempeña cubriendo tanto la demarcación de centrocampista como la de delantero.2 Actualmente milita en el Bayern Múnich de la Bundesliga de Alemania."
+  },
+  {
+    "nombre":"Thibaut Courtois",
+    "nickname":"Thibaut_Courtois",
+    "logros":" fue elegido como el Guardameta del Año en el fútbol belga y como el Mejor Jugador del Genk al finalizar la temporada.",
+    "bio":"(Bree, Provincia de Limburgo, Bélgica, 11 de mayo de 1992), es un futbolista belga. Se desempeña como guardameta y actualmente milita en el Atlético de Madrid de la Primera División de España, cedido en préstamo por el Chelsea FC de la Premier League de Inglaterra."
+  },
+  {
+    "nombre":"Eden Hazard",
+    "nickname":"Eden_Hazard",
+    "logros":"en su primera temporada como titular en el equipo, ganó el premio al Mejor Jugador Joven del Año por la Unión Nacional de Futbolistas Profesionales.",
+    "bio":"(La Louvière, Bélgica, 7 de enero de 1991), es un futbolista belga. Se desempeña como centrocampista ofensivo o extremo y actualmente milita en el Chelsea FC de la Premier League de Inglaterra. Hazard es conocido por su creatividad, velocidad y habilidad técnica y es descrito como un centrocampista ofensivo explosivo y frío que puede cambiar el juego con un cambio de ritmo o un regate"
+  },
+  {
+    "nombre":"Javier Hernández Balcázar",
+    "nickname":"Chicharito_Hernandez",
+    "logros":"El 30 de septiembre de 2009, Javier debutó con la Selección de fútbol de México ante Colombia. Aunque su equipo fue derrotado por 2-1, Javier dio una asistencia a Paul Aguilar para la anotación del único gol de la selección mexicana",
+     "bio":"(nacido en Guadalajara, Jalisco, México, el 1 de junio de 1988), mejor conocido como Javier Hernández o por su apodo «Chicharito», es un futbolista mexicano. Juega de delantero y su club actual es el Manchester United de la Barclays Premier League de Inglaterra.4 El 26 de mayo del 2012 es nombrado embajador de la Unicef.5"
+  }
+]
